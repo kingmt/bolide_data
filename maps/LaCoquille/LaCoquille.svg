@@ -3343,7 +3343,9 @@
     <text x="1655" y="1595" fill="black" font-size="13" font-family="Teko" stroke="black" >FULL FUEL</text>
   </g>
 
+<!--
   <g transform="translate(500, 150)">
     <use x="0" y="0" xlink:href="#blue-car" transform="rotate(0)"/>
     </g>
+    -->
 </svg>
